@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wotan.Engine", "Wotan.Engine\Wotan.Engine.csproj", "{1A1A4FB8-877F-4D1C-AFF9-4236FB0C0485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wotan.Runner", "Wotan.Runner\Wotan.Runner.csproj", "{7633FA74-EE75-4377-89CC-D30D34836F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wotan.SimpleWinClient", "Wotan.SimpleWinClient\Wotan.SimpleWinClient.csproj", "{9D7BC094-3ECB-455E-AF4F-88D071B991BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wotan.Test", "Wotan.Test\Wotan.Test.csproj", "{5D301DC2-B086-4404-890C-6B9B3075BA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1A4FB8-877F-4D1C-AFF9-4236FB0C0485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1A4FB8-877F-4D1C-AFF9-4236FB0C0485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1A4FB8-877F-4D1C-AFF9-4236FB0C0485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1A4FB8-877F-4D1C-AFF9-4236FB0C0485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7633FA74-EE75-4377-89CC-D30D34836F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7633FA74-EE75-4377-89CC-D30D34836F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7633FA74-EE75-4377-89CC-D30D34836F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7633FA74-EE75-4377-89CC-D30D34836F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7BC094-3ECB-455E-AF4F-88D071B991BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7BC094-3ECB-455E-AF4F-88D071B991BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7BC094-3ECB-455E-AF4F-88D071B991BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7BC094-3ECB-455E-AF4F-88D071B991BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D301DC2-B086-4404-890C-6B9B3075BA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D301DC2-B086-4404-890C-6B9B3075BA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D301DC2-B086-4404-890C-6B9B3075BA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D301DC2-B086-4404-890C-6B9B3075BA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
